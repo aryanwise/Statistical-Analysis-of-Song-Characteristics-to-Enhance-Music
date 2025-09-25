@@ -49,7 +49,7 @@ To replicate this analysis, follow these steps:
 
 1.  **Clone the repository** to your local machine using Git:
     ```bash
-    git clone [your-repository-url]
+    git clone "https://github.com/aryanwise/Statistical-Analysis-of-Song-Characteristics-to-Enhance-Music.git"
     ```
 2.  **Set the Working Directory in R:**
     Open your R or RStudio environment. Before running any scripts, set your working directory to the root of the cloned folder. Use the `setwd()` command with the path to the folder:
