@@ -1,5 +1,5 @@
 # Statistical Analysis of Song Popularity
-~ By Aryan Mishra
+`~ By Aryan Mishra`
 
 ## Project Overview
 
