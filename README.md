@@ -40,3 +40,22 @@ The analysis was conducted in R and followed a structured workflow:
 * `/descriptive-stats-results/`: Contains the summary findings from the descriptive analysis in CSV format.
 * `/scripts/`: Contains all R scripts used for the analysis.
 * `Final_Report.pdf`: The complete, detailed report of the project, including all methodologies, interpretations, and business recommendations.
+
+-----
+
+## How to Use This Repository
+
+To replicate this analysis, follow these steps:
+
+1.  **Clone the repository** to your local machine using Git:
+    ```bash
+    git clone [your-repository-url]
+    ```
+2.  **Set the Working Directory in R:**
+    Open your R or RStudio environment. Before running any scripts, set your working directory to the root of the cloned folder. Use the `setwd()` command with the path to the folder:
+    ```r
+    # Example:
+    setwd("./Statistical-Analysis-of-Song-Characteristics-to-Enhance-Music")
+    ```
+3.  **Run the Scripts:**
+    You can now run the scripts located in the `/scripts/` folder. Ensure you have installed the necessary packages listed at the top of each script.
